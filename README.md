@@ -2,8 +2,8 @@
 :man: 19 years old<br>
 :computer: Web developer Full-Stack<br>
 
+<img src="https://logospng.org/download/linkedin/logo-linkedin-icon-1024.png" width="20"> My <a href="https://www.linkedin.com/in/dylan-almeida/">Linkedin</a>
 
-My <a href="https://www.linkedin.com/in/dylan-almeida/">Linkedin</a>:link:
 
  - :mortar_board: Formation:<br>
    <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1507162903/qkpagi7sv8temclfcfjp.png"
