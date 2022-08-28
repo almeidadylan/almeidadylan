@@ -1,6 +1,6 @@
 # Dylan-Almeida
 I am 19 years old<br>
-I am Web developer Full-Stack<br>
+:computer: I am Web developer Full-Stack<br>
 
 
 My <a href="https://www.linkedin.com/in/dylan-almeida/">Linkedin</a>:link:
