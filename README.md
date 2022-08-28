@@ -1,14 +1,14 @@
 # I'm Dylan-Almeida
-I am 19 years old
-I am Web developer Full-Stack
+I am 19 years old<br>
+I am Web developer Full-Stack<br>
 
 
 My <a href="https://www.linkedin.com/in/dylan-almeida/">Linkedin</a>
 
- - Formation:
+ - Formation:<br>
   Kenzie Academy Brazil - 2000h - 21/09/2021-21/09/2022
 
- - Favourites tools:
+ - Favourites tools:<br>
    React
    Node.js
    Django
