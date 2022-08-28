@@ -1,3 +1,4 @@
+<img src="https://images.educamaisbrasil.com.br/content/noticias/plataforma-abre-inscricoes-para-cursos-gratuitos-de-programacao_g.jpg">
 # Dylan-Almeida
 :man: 19 years old<br>
 :computer: Web developer Full-Stack<br>
