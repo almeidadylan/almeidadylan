@@ -9,6 +9,6 @@ My <a href="https://www.linkedin.com/in/dylan-almeida/">Linkedin</a>
   Kenzie Academy Brazil - 2000h - 21/09/2021-21/09/2022
 
  - Favourites tools:<br>
-   React
+   :react:React
    Node.js
    Django
