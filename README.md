@@ -39,5 +39,6 @@
     
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
     <br></br>
+    
     ![snake gif](https://github.com/almeidadylan/almeidadylan/blob/output/github-contribution-grid-snake.svg)
 
