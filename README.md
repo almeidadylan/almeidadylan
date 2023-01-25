@@ -21,7 +21,7 @@
     
     <br></br>
     <h3>Ferramentas e Tecnologias</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
     <br></br>
     
     ![snake gif](https://github.com/almeidadylan/almeidadylan/blob/output/github-contribution-grid-snake.svg)
