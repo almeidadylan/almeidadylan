@@ -19,5 +19,9 @@
     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almeidadylan&count_private=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almeidadylan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
     
+    <br></br>
+    <h3>Ferramentas e Tecnologias</h3>
+    <br></br>
+    
     ![snake gif](https://github.com/almeidadylan/almeidadylan/blob/output/github-contribution-grid-snake.svg)
 
